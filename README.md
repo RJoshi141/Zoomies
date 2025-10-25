@@ -27,28 +27,28 @@ Built entirely in **SpriteKit + Swift**, with custom pixel sprites and animation
 ### 🌅 Intro Scene  
 <p align="center">
   <b>Our hero gets ready for a new adventure!</b><br><br>
-  <img src="./Zoomies/zoomies-intro.gif" width="380" alt="Zoomies Intro"/>
+  <img src="./Zoomies/zoomies-intro.gif" width="440" alt="Zoomies Intro"/>
 </p>
 
 
 ### 🏃‍♂️ Gameplay  
 <p align="center">
   <b>Dodge logs, collect bones, and keep running to survive!</b><br><br>
-  <img src="./Zoomies/zoomies-gameplay.gif" width="380" alt="Zoomies Gameplay"/>
+  <img src="./Zoomies/zoomies-gameplay.gif" width="440" alt="Zoomies Gameplay"/>
 </p>
 
 
 ### 🎛️ Menu System  
 <p align="center">
   <b>Pause, read the rules, or view the credits anytime.</b><br><br>
-  <img src="./Zoomies/zoomies-menu.gif" width="380" alt="Zoomies Menu"/>
+  <img src="./Zoomies/zoomies-menu.gif" width="440" alt="Zoomies Menu"/>
 </p>
 
 
 ### 💀 Game Over  
 <p align="center">
   <b>Every run must end — but you can always play again!</b><br><br>
-  <img src="./Zoomies/zoomies-gameover.gif" width="380" alt="Zoomies Game Over"/>
+  <img src="./Zoomies/zoomies-gameover.gif" width="440" alt="Zoomies Game Over"/>
 </p>
 
 
