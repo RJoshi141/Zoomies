@@ -30,10 +30,6 @@ The game combines **retro pixel art**, **parallax backgrounds**, and **smooth Sp
   <img src="./Zoomies/zoomies-intro.gif" width="520" style="border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.15);" alt="Zoomies Intro"/>
 </p>
 
-✨ **Highlights**
-- Animated barking dog sprite introduces the game
-- Smooth fade-in title animation with custom font
-- Tap-to-start screen for an interactive opening
 
 ---
 
@@ -43,10 +39,9 @@ The game combines **retro pixel art**, **parallax backgrounds**, and **smooth Sp
   <img src="./Zoomies/zoomies-gameplay.gif" width="520" style="border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.15);" alt="Zoomies Gameplay"/>
 </p>
 
-✨ **Gameplay Features**
+
 - **Dynamic obstacles** (logs) and **collectibles** (bones)  
 - Bones restore hearts if health < 5 ❤️  
-- **Blinking hearts** for visual feedback and game feel  
 - **Real-time distance tracker** in the bottom-right  
 - **Smooth jump animation** and parallax-scrolling background
 
@@ -58,11 +53,9 @@ The game combines **retro pixel art**, **parallax backgrounds**, and **smooth Sp
   <img src="./Zoomies/zoomies-menu.gif" width="520" style="border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.15);" alt="Zoomies Menu"/>
 </p>
 
-✨ **Menu Features**
+
 - In-game **pause menu** with Resume, Rules, Credits, and Exit  
-- Interactive **button states** (clicked/un-clicked versions)  
 - **Rules and Credits pages** with their own animations  
-- Menu button always visible — tap to pause anytime  
 
 ---
 
@@ -72,11 +65,7 @@ The game combines **retro pixel art**, **parallax backgrounds**, and **smooth Sp
   <img src="./Zoomies/zoomies-gameover.gif" width="520" style="border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.15);" alt="Zoomies Game Over"/>
 </p>
 
-✨ **Game Over Features**
-- Smooth **fade-to-black** transition  
-- “Game Over” and “Play Again” titles fade in sequentially  
 - **Yes / No** restart options with proper input detection  
-- **Skull icon** replaces hearts when health reaches zero 💀  
 
 ---
 
