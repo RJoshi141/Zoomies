@@ -1,10 +1,3 @@
-//
-//  README.MD
-//  Zoomies
-//
-//  Created by Ritika Joshi on 10/24/25.
-//
-
 <h1 align="center">🐕 Zoomies</h1>
 
 <p align="center">
@@ -32,11 +25,24 @@ Built entirely in **SpriteKit + Swift**, with custom pixel sprites and animation
 ## 🎮 Gameplay Demo
 
 <p align="center">
-  <img src="./Zoomies/zoomies-intro.gif" width="280" alt="Zoomies Intro"/>
-  <img src="./Zoomies/zoomies-gameplay.gif" width="280" alt="Zoomies Gameplay"/>
-  <img src="./Zoomies/zoomies-menu.gif" width="280" alt="Zoomies Menu"/>
-  <img src="./Zoomies/zoomies-gameover.gif" width="280" alt="Zoomies Game Over"/>
+  <figure style="display:inline-block; margin:10px;">
+    <img src="./Zoomies/zoomies-intro.gif" width="250" style="border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.15);" alt="Intro"/>
+    <figcaption align="center"><b>Intro</b></figcaption>
+  </figure>
+  <figure style="display:inline-block; margin:10px;">
+    <img src="./Zoomies/zoomies-gameplay.gif" width="250" style="border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.15);" alt="Gameplay"/>
+    <figcaption align="center"><b>Gameplay</b></figcaption>
+  </figure>
+  <figure style="display:inline-block; margin:10px;">
+    <img src="./Zoomies/zoomies-menu.gif" width="250" style="border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.15);" alt="Menu"/>
+    <figcaption align="center"><b>Menu</b></figcaption>
+  </figure>
+  <figure style="display:inline-block; margin:10px;">
+    <img src="./Zoomies/zoomies-gameover.gif" width="250" style="border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.15);" alt="Game Over"/>
+    <figcaption align="center"><b>Game Over</b></figcaption>
+  </figure>
 </p>
+
 
 ---
 
