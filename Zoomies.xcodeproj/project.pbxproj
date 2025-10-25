@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		18A9755A2EAC8D6100D86C58 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 18A975592EAC8D5700D86C58 /* .gitignore */; };
+		18A975A42EACAB2600D86C58 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 18A975A32EACAB1D00D86C58 /* LICENSE */; };
 		18A97CD62EA4737E0043A899 /* PressStart2P-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 18A97CD52EA4737E0043A899 /* PressStart2P-Regular.otf */; };
 /* End PBXBuildFile section */
 
@@ -31,6 +32,7 @@
 /* Begin PBXFileReference section */
 		18A975592EAC8D5700D86C58 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		18A975712EACA0A000D86C58 /* README.MD */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = README.MD; sourceTree = "<group>"; };
+		18A975A32EACAB1D00D86C58 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		18A97C742EA43C910043A899 /* Zoomies.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Zoomies.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18A97C8D2EA43C920043A899 /* ZoomiesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ZoomiesTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		18A97C972EA43C920043A899 /* ZoomiesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ZoomiesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -98,6 +100,7 @@
 			isa = PBXGroup;
 			children = (
 				18A975712EACA0A000D86C58 /* README.MD */,
+				18A975A32EACAB1D00D86C58 /* LICENSE */,
 				18A97CD52EA4737E0043A899 /* PressStart2P-Regular.otf */,
 				18A97CBA2EA46BAC0043A899 /* PressStart2P-Regular.ttf */,
 				18A975592EAC8D5700D86C58 /* .gitignore */,
@@ -238,6 +241,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18A975A42EACAB2600D86C58 /* LICENSE in Resources */,
 				18A97CD62EA4737E0043A899 /* PressStart2P-Regular.otf in Resources */,
 				18A9755A2EAC8D6100D86C58 /* .gitignore in Resources */,
 			);
