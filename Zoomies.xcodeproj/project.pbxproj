@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		18A97CD62EA4737E0043A899 /* PressStart2P-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 18A97CD52EA4737E0043A899 /* PressStart2P-Regular.otf */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		18A97C8E2EA43C920043A899 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,11 +31,26 @@
 		18A97C742EA43C910043A899 /* Zoomies.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Zoomies.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18A97C8D2EA43C920043A899 /* ZoomiesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ZoomiesTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		18A97C972EA43C920043A899 /* ZoomiesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ZoomiesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		18A97CBA2EA46BAC0043A899 /* PressStart2P-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "PressStart2P-Regular.ttf"; path = "Zoomies/PressStart2P-Regular.ttf"; sourceTree = "<group>"; };
+		18A97CD52EA4737E0043A899 /* PressStart2P-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "PressStart2P-Regular.otf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		18A97CB32EA45E8E0043A899 /* Exceptions for "Zoomies" folder in "Zoomies" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 18A97C732EA43C910043A899 /* Zoomies */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		18A97C762EA43C910043A899 /* Zoomies */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				18A97CB32EA45E8E0043A899 /* Exceptions for "Zoomies" folder in "Zoomies" target */,
+			);
 			path = Zoomies;
 			sourceTree = "<group>";
 		};
@@ -75,6 +94,8 @@
 		18A97C6B2EA43C910043A899 = {
 			isa = PBXGroup;
 			children = (
+				18A97CD52EA4737E0043A899 /* PressStart2P-Regular.otf */,
+				18A97CBA2EA46BAC0043A899 /* PressStart2P-Regular.ttf */,
 				18A97C762EA43C910043A899 /* Zoomies */,
 				18A97C902EA43C920043A899 /* ZoomiesTests */,
 				18A97C9A2EA43C920043A899 /* ZoomiesUITests */,
@@ -212,6 +233,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18A97CD62EA4737E0043A899 /* PressStart2P-Regular.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -399,6 +421,8 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = SLYG9Q5R47;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Zoomies/Info.plist;
+				"INFOPLIST_FILE[sdk=*]" = "";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -431,6 +455,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = SLYG9Q5R47;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Zoomies/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
