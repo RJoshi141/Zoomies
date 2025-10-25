@@ -24,24 +24,36 @@ Built entirely in **SpriteKit + Swift**, with custom pixel sprites and animation
 
 ## 🎮 Gameplay Demo
 
+### 🌅 Intro Scene  
 <p align="center">
-  <figure style="display:inline-block; margin:10px;">
-    <img src="./Zoomies/zoomies-intro.gif" width="250" style="border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.15);" alt="Intro"/>
-    <figcaption align="center"><b>Intro</b></figcaption>
-  </figure>
-  <figure style="display:inline-block; margin:10px;">
-    <img src="./Zoomies/zoomies-gameplay.gif" width="250" style="border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.15);" alt="Gameplay"/>
-    <figcaption align="center"><b>Gameplay</b></figcaption>
-  </figure>
-  <figure style="display:inline-block; margin:10px;">
-    <img src="./Zoomies/zoomies-menu.gif" width="250" style="border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.15);" alt="Menu"/>
-    <figcaption align="center"><b>Menu</b></figcaption>
-  </figure>
-  <figure style="display:inline-block; margin:10px;">
-    <img src="./Zoomies/zoomies-gameover.gif" width="250" style="border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.15);" alt="Game Over"/>
-    <figcaption align="center"><b>Game Over</b></figcaption>
-  </figure>
+  <b>Our hero gets ready for a new adventure!</b><br><br>
+  <img src="./Zoomies/zoomies-intro.gif" width="350" alt="Zoomies Intro"/>
 </p>
+
+---
+
+### 🏃‍♂️ Gameplay  
+<p align="center">
+  <b>Dodge logs, collect bones, and keep running to survive!</b><br><br>
+  <img src="./Zoomies/zoomies-gameplay.gif" width="350" alt="Zoomies Gameplay"/>
+</p>
+
+---
+
+### 🎛️ Menu System  
+<p align="center">
+  <b>Pause, read the rules, or view the credits anytime.</b><br><br>
+  <img src="./Zoomies/zoomies-menu.gif" width="350" alt="Zoomies Menu"/>
+</p>
+
+---
+
+### 💀 Game Over  
+<p align="center">
+  <b>Every run must end — but you can always play again!</b><br><br>
+  <img src="./Zoomies/zoomies-gameover.gif" width="350" alt="Zoomies Game Over"/>
+</p>
+
 
 
 ---
