@@ -27,57 +27,30 @@ Built entirely in **SpriteKit + Swift**, with custom pixel sprites and animation
 ### 🌅 Intro Scene  
 <p align="center">
   <b>Our hero gets ready for a new adventure!</b><br><br>
-  <img src="./Zoomies/zoomies-intro.gif" width="440" alt="Zoomies Intro"/>
+  <img src="./Zoomies/zoomies-intro.gif" width="480" alt="Zoomies Intro"/>
 </p>
 
 
 ### 🏃‍♂️ Gameplay  
 <p align="center">
   <b>Dodge logs, collect bones, and keep running to survive!</b><br><br>
-  <img src="./Zoomies/zoomies-gameplay.gif" width="440" alt="Zoomies Gameplay"/>
+  <img src="./Zoomies/zoomies-gameplay.gif" width="480" alt="Zoomies Gameplay"/>
 </p>
 
 
 ### 🎛️ Menu System  
 <p align="center">
   <b>Pause, read the rules, or view the credits anytime.</b><br><br>
-  <img src="./Zoomies/zoomies-menu.gif" width="440" alt="Zoomies Menu"/>
+  <img src="./Zoomies/zoomies-menu.gif" width="480" alt="Zoomies Menu"/>
 </p>
 
 
 ### 💀 Game Over  
 <p align="center">
   <b>Every run must end — but you can always play again!</b><br><br>
-  <img src="./Zoomies/zoomies-gameover.gif" width="440" alt="Zoomies Game Over"/>
+  <img src="./Zoomies/zoomies-gameover.gif" width="480" alt="Zoomies Game Over"/>
 </p>
 
-
-
----
-
-## 🧩 Features
-
-✨ **Custom Pixel Art**
-- Sprites for running, jumping, sitting, barking, and collecting bones
-
-❤️ **Health System**
-- 5-heart health bar with bone-based recovery
-- Animated blinking hearts on restart
-- Skull icon when all hearts are lost 💀
-
-🪵 **Obstacles + Power-ups**
-- Dynamic log obstacles
-- Random bone spawns (less frequent)
-
-📏 **Distance Tracker**
-- Real-time counter at the bottom-right of the screen
-
-🖥️ **Menu Overlay**
-- Resume, Rules, Credits, and Exit buttons
-- Smooth transitions and back navigation
-
-🎨 **Title & Credits Animations**
-- Barking and sitting dog animations for extra charm
 
 ---
 
@@ -91,18 +64,6 @@ Built entirely in **SpriteKit + Swift**, with custom pixel sprites and animation
 | Art | Custom Pixel Sprites (by Ritika) |
 | Font | Press Start 2P |
 | Platform | iOS |
-
----
-
-## 🕹️ Controls
-
-| Action | Control |
-|:-------|:---------|
-| Jump | Tap anywhere on screen |
-| Pause / Menu | Tap **MENU** (top-right) |
-| Resume / Rules / Credits / Exit | Tap respective buttons |
-| Restart | Tap **YES** after Game Over |
-| Exit | Tap **NO** after Game Over |
 
 ---
 
