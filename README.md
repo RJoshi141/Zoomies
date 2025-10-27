@@ -75,8 +75,7 @@ The game combines **retro pixel art**, **parallax backgrounds**, and **smooth Sp
 
 ---
 <details>
-  <summary><b style="font-size:3.3em;">Full Asset Reference (click to expand)</b></summary>
-  <br>
+  <summary><h3>🎨 Full Asset Reference (click to expand)</h3></summary>
 
 # Sprite & Asset Reference Sheet  
 
