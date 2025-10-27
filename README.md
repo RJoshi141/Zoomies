@@ -1,7 +1,9 @@
-<h1 align="center">🐕 Zoomies</h1>
+<h1 align="center">ZOOMIES</h1>
 
 <p align="center">
-  <b>A retro 2D endless runner built with SpriteKit + Swift 🕹️</b><br>
+  <b>**Zoomies** is a fast-paced 2D pixel-art endless runner starring a loyal German Shepherd 🐶.  
+Tap to jump, collect bones to restore health, and dodge logs to keep running!  
+The game combines **retro pixel art**, **parallax backgrounds**, and **smooth SpriteKit animation** for an old-school arcade vibe. 🕹️</b><br>
   Run, jump, collect bones, and survive as long as you can!
 </p>
 
@@ -11,12 +13,6 @@
   <img src="https://img.shields.io/badge/Engine-SpriteKit-green?logo=apple&logoColor=white" alt="SpriteKit"/>
   <img src="https://img.shields.io/badge/Platform-iOS-lightgrey?logo=apple&logoColor=white" alt="iOS"/>
 </p>
-
-## Overview
-
-**Zoomies** is a fast-paced 2D pixel-art endless runner starring a loyal German Shepherd 🐶.  
-Tap to jump, collect bones to restore health, and dodge logs to keep running!  
-The game combines **retro pixel art**, **parallax backgrounds**, and **smooth SpriteKit animation** for an old-school arcade vibe.
 
 ---
 
