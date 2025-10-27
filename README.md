@@ -1,10 +1,9 @@
 <h1 align="center">ZOOMIES</h1>
 
 <p align="center">
-  <b>Zoomies is a fast-paced 2D pixel-art endless runner starring a loyal German Shepherd 🐶.  
+  Zoomies is a fast-paced 2D pixel-art endless runner starring a loyal German Shepherd 🐶.  <b></b>
 Tap to jump, collect bones to restore health, and dodge logs to keep running!  
-The game combines retro pixel art, parallax backgrounds, and smooth SpriteKit animation for an old-school arcade vibe. 🕹️</b><br>
-  Run, jump, collect bones, and survive as long as you can!
+The game combines retro pixel art, parallax backgrounds, and smooth SpriteKit animation for an old-school arcade vibe.
 </p>
 
 <p align="center">
@@ -22,16 +21,19 @@ The game combines retro pixel art, parallax backgrounds, and smooth SpriteKit an
   <b>Our hero gets ready for a new adventure!</b><br><br>
   <img src="./Zoomies/zoomies-intro.gif" width="520" style="border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.15);" alt="Zoomies Intro"/>
 </p>
+  <br><br>
 
 <p align="center">
   <b>Dodge logs, collect bones, and keep running to survive!</b><br><br>
   <img src="./Zoomies/zoomies-gameplay.gif" width="520" style="border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.15);" alt="Zoomies Gameplay"/>
 </p>
+  <br><br>
 
 <p align="center">
   <b>Pause, check the rules, or view the credits anytime.</b><br><br>
   <img src="./Zoomies/zoomies-menu.gif" width="520" style="border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.15);" alt="Zoomies Menu"/>
 </p>
+  <br><br>
 
 <p align="center">
   <b>Every run must end — but you can always play again!</b><br><br>
@@ -48,17 +50,15 @@ The game combines retro pixel art, parallax backgrounds, and smooth SpriteKit an
 | Language | Swift |
 | IDE | Xcode |
 | Art | Custom Pixel Sprites (created using [Pixilart](https://www.pixilart.com)) |
-| Font | Press Start 2P |
 | Platform | iOS |
 
 
 
 ## Full Asset Reference
 
-
 All artwork was created by **Ritika Joshi** using [Pixilart](https://www.pixilart.com)  
 and is **not licensed for commercial reuse or redistribution**.  
-All assets are stored in **`Assets.xcassets`**, organized by folders.
+All assets are stored in **`Assets.xcassets`**.
 
 ### Character Sprites  
 
