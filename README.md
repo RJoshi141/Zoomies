@@ -56,15 +56,15 @@ The game combines **retro pixel art**, **parallax backgrounds**, and **smooth Sp
 | Platform | iOS |
 
 ---
-<details>
-  <summary><h2>Full Asset Reference (click to expand)</h2></summary>
+
+## Full Asset Reference
 
 
 All artwork was created by **Ritika Joshi** using [Pixilart](https://www.pixilart.com)  
 and is **not licensed for commercial reuse or redistribution**.  
 All assets are stored in **`Assets.xcassets`**, organized by folders.
 
-## Character Sprites  
+### Character Sprites  
 
 | Sprite | Description | Frames | Used In |
 |:------:|:-------------|:-------:|:--------|
@@ -77,7 +77,7 @@ All assets are stored in **`Assets.xcassets`**, organized by folders.
 | <img src="Zoomies/Assets.xcassets/Sprites/dog-sit-sprite.imageset/dog-sit-sprite.png" width="500"/> | Sitting dog | 9 | Credits screen |
 
 
-## Obstacles & Collectibles  
+### Obstacles & Collectibles  
 
 | Sprite | Description | Used In |
 |:------:|:-------------|:--------|
@@ -86,7 +86,7 @@ All assets are stored in **`Assets.xcassets`**, organized by folders.
 | <img src="Zoomies/Assets.xcassets/Sprites/dog-bone-collected-sprite.imageset/dog-bone-collected-sprite.png" width="300"/> | Blinking yellow bone effect | Bone collection |
 
 
-## UI Elements  
+### UI Elements  
 
 | Sprite | Description | Used In |
 |:------:|:-------------|:--------|
@@ -101,11 +101,10 @@ All assets are stored in **`Assets.xcassets`**, organized by folders.
 | <img src="Zoomies/Assets.xcassets/UI/exit-button.imageset/exit-button.png" width="100"/> | Exit to title | Menu |
 | <img src="Zoomies/Assets.xcassets/UI/back-button.imageset/back-button.png" width="100"/> | Back navigation | Rules/Credits |
 
-</details>
-
 ---
 
-## Credits
+<details>
+  <summary><h2>Credits</h2></summary>
 
 **Zoomies** by [Ritika Joshi](https://github.com/RJoshi141)  
 Game Design, Art & Code by Ritika  
@@ -113,10 +112,12 @@ Built with SpriteKit + Swift ✨
 © 2025 Zoomies Studio  
 
 > 🎨 *All pixel art assets are creations by Ritika Joshi and are **not for commercial reuse or redistribution.***  
-
+</details>
 ---
 
-## Setup (for Developers)
+<details>
+  <summary><h2>Setup (for Developers)</h2></summary>
+
 
 Follow these steps to open, build, and run **Zoomies** locally:
 
@@ -143,10 +144,5 @@ cd Zoomies
 * Modify textures or UI art in the **Assets.xcassets** folder
 * Keep pixel scaling consistent and use `.nearest` filtering for crisp visuals
 * To add new sprites, import your **.png** files and reference them in the `GameScene.swift`
-
+</details>
 ---
-
-## License
-
-This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for details.
-© 2025 Ritika Joshi
