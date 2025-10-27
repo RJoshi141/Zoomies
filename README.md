@@ -113,7 +113,7 @@ All assets are stored in **`Assets.xcassets`**, organized by folders.
 |:------:|:-------------|:--------|
 | <img src="Zoomies/Assets.xcassets/Sprites/wooden-log.imageset/wooden-log.png" width="100"/> | Wooden log obstacle | Gameplay |
 | <img src="Zoomies/Assets.xcassets/UI/dog-bone.imageset/dog-bone.png" width="100"/> | Collectible bone | Gameplay |
-| <img src="Zoomies/Assets.xcassets/Sprites/dog-bone-collected-sprite.imageset/dog-bone-collected-sprite.png" width="100"/> | Blinking yellow bone effect | Bone collection |
+| <img src="Zoomies/Assets.xcassets/Sprites/dog-bone-collected-sprite.imageset/dog-bone-collected-sprite.png" width="200"/> | Blinking yellow bone effect | Bone collection |
 
 ---
 
@@ -122,10 +122,9 @@ All assets are stored in **`Assets.xcassets`**, organized by folders.
 | Sprite | Description | Used In |
 |:------:|:-------------|:--------|
 | <img src="Zoomies/Assets.xcassets/UI/heart.imageset/heart-health.png" width="100"/> | Player health unit | Health bar |
-| <img src="Zoomies/Assets.xcassets/Clouds/cloud1.imageset/cloud1.png" width="100"/> | Small cloud | Background |
-| <img src="Zoomies/Assets.xcassets/Clouds/cloud2.imageset/cloud2.png" width="10"/> | Medium cloud | Background |
-| <img src="Zoomies/Assets.xcassets/Clouds/cloud3.imageset/cloud3.png" width="100"/> | Large cloud | Background |
-
+| <img src="Zoomies/Assets.xcassets/Clouds/cloud1.imageset/cloud1.png" width="80"/> | Small cloud | Background |
+| <img src="Zoomies/Assets.xcassets/Clouds/cloud2.imageset/cloud2.png" width="80"/> | Medium cloud | Background |
+| <img src="Zoomies/Assets.xcassets/Clouds/cloud3.imageset/cloud3.png" width="80"/> | Large cloud | Background |
 
 </details>
 
