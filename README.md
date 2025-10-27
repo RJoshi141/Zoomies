@@ -111,10 +111,10 @@ All assets are stored in **`Assets.xcassets`**, organized by folders.
 
 | Sprite | Description | Used In |
 |:------:|:-------------|:--------|
-| <img src="./Zoomies/wooden-log.png" width="100"/> | Wooden log obstacle | Gameplay |
-| <img src="./Zoomies/dog-bone.png" width="100"/> | Collectible bone | Gameplay |
-| <img src="./Zoomies/dog-bone-yellow.png" width="100"/> | Blinking yellow bone effect | Bone collection |
-| <img src="./Zoomies/health-skull.png" width="80"/> | Skull shown on death | Health bar on death |
+| <img src="Zoomies/Assets.xcassets/Sprites/wooden-log.imageset/wooden-log.png" width="300"/> | Wooden log obstacle | Gameplay |
+| <img src="Zoomies/Assets.xcassets/UI/dog-bone.imageset/dog-bone.png" width="400"/> | Collectible bone | Gameplay |
+| <img src="Zoomies/Assets.xcassets/Sprites/dog-bone-collected-sprite.imageset/dog-bone-collected-sprite.png" width="500"/> | Blinking yellow bone effect | Bone collection |
+| <img src="Zoomies/Assets.xcassets/UI/health-skull.imageset/health-skull.png" width="80"/> | Skull shown on death | Health bar on death |
 
 ---
 
@@ -122,36 +122,10 @@ All assets are stored in **`Assets.xcassets`**, organized by folders.
 
 | Sprite | Description | Used In |
 |:------:|:-------------|:--------|
-| <img src="./Zoomies/heart.png" width="60"/> | Player health unit | Health bar |
-| <img src="./Zoomies/health_label.png" width="180"/> | “HEALTH” label | Bottom-left |
-| <img src="./Zoomies/distance_label.png" width="180"/> | “DISTANCE” label | Bottom-right |
+| <img src="Zoomies/Assets.xcassets/UI/heart.imageset/heart-health.png" width="100"/> | Player health unit | Health bar |
+| <img src="Zoomies/Assets.xcassets/UI/health_label.imageset/health_label.png" width="280"/> | “HEALTH” label | Bottom-left |
+| <img src="Zoomies/Assets.xcassets/UI/distance_label.imageset/distance-text.png" width="280"/> | “DISTANCE” label | Bottom-right |
 
----
-
-## 🖥️ Menu & Buttons  
-
-| Button | Description | Used In |
-|:------:|:-------------|:--------|
-| <img src="./Zoomies/menu-button.png" width="100"/> | Menu button (pause) | Gameplay |
-| <img src="./Zoomies/menu-button-clicked.png" width="100"/> | Menu button (pressed) | Gameplay |
-| <img src="./Zoomies/resume-button.png" width="140"/> | Resume game | Menu |
-| <img src="./Zoomies/rules-button.png" width="140"/> | Rules page | Menu |
-| <img src="./Zoomies/credits-button.png" width="140"/> | Credits page | Menu |
-| <img src="./Zoomies/exit-button.png" width="140"/> | Exit to title | Menu |
-| <img src="./Zoomies/back-button.png" width="100"/> | Back navigation | Rules/Credits |
-
----
-
-## 🪩 Titles & Overlays  
-
-| Sprite | Description | Used In |
-|:------:|:-------------|:--------|
-| <img src="./Zoomies/zoomies-title.png" width="200"/> | Main title | Title screen |
-| <img src="./Zoomies/tap-to-start-title.png" width="200"/> | “Tap to Start” label | Idle state |
-| <img src="./Zoomies/game-over-title.png" width="200"/> | Game Over text | End screen |
-| <img src="./Zoomies/play-again-title.png" width="200"/> | “Play Again?” text | End screen |
-| <img src="./Zoomies/menu-rules.png" width="200"/> | Rules panel | Rules scene |
-| <img src="./Zoomies/menu-credits.png" width="200"/> | Credits panel | Credits scene |
 
 ---
 
@@ -159,20 +133,10 @@ All assets are stored in **`Assets.xcassets`**, organized by folders.
 
 | Sprite | Description | Used In |
 |:------:|:-------------|:--------|
-| <img src="./Zoomies/cloud1.png" width="120"/> | Small cloud | Background |
-| <img src="./Zoomies/cloud2.png" width="120"/> | Medium cloud | Background |
-| <img src="./Zoomies/cloud3.png" width="120"/> | Large cloud | Background |
+| <img src="Zoomies/Assets.xcassets/Clouds/cloud1.imageset/cloud1.png" width="320"/> | Small cloud | Background |
+| <img src="Zoomies/Assets.xcassets/Clouds/cloud2.imageset/cloud2.png" width="320"/> | Medium cloud | Background |
+| <img src="Zoomies/Assets.xcassets/Clouds/cloud3.imageset/cloud3.png" width="320"/> | Large cloud | Background |
 
----
-
-## 🪄 Miscellaneous  
-
-| Sprite | Description | Used In |
-|:------:|:-------------|:--------|
-| <img src="./Zoomies/skull.png" width="60"/> | Decorative skull above Game Over | Game over |
-| <img src="./Zoomies/PressStart2P-Regular.otf" width="150"/> | Retro pixel font | UI text |
-
----
 
 </details>
 
