@@ -90,12 +90,12 @@ All assets are stored in **`Assets.xcassets`**, organized by folders.
 
 | Sprite | Description | Frames | Used In |
 |:------:|:-------------|:-------:|:--------|
-| <img src="Zoomies/Assets.xcassets/Sprites/dog-idle-sprite.imageset/dpg-idle-sprite.png" width="700"/> | Dog sitting + wagging tail (idle) | 16 | Title screen |
+| <img src="Zoomies/Assets.xcassets/Sprites/dog-idle-sprite.imageset/dpg-idle-sprite.png" width="800"/> | Dog sitting + wagging tail (idle) | 16 | Title screen |
 | <img src="Zoomies/Assets.xcassets/Sprites/dog-running-sprite.imageset/dog-running-sprite.png" width="400"/> | Running animation | 8 | Gameplay |
 | <img src="Zoomies/Assets.xcassets/Sprites/dog-jump-sprite.imageset/dog-jump-sprite2.png" width="400"/> | Jump animation | 7 | Gameplay |
 | <img src="Zoomies/Assets.xcassets/Sprites/dog-hurt-sprite.imageset/dog-hurt-sprite2.png" width="200"/> | Hurt animation (flinch) | 4 | When hit |
 | <img src="Zoomies/Assets.xcassets/Sprites/dog-die-sprite.imageset/dog-die-sprite.png" width="400"/> | Death animation | 8 | When HP = 0 |
-| <img src="Zoomies/Assets.xcassets/Sprites/dog-bark-sprite.imageset/dog-bark-sprite.png" width="700"/> | Barking dog | 13 | Title screen |
+| <img src="Zoomies/Assets.xcassets/Sprites/dog-bark-sprite.imageset/dog-bark-sprite.png" width="800"/> | Barking dog | 13 | Title screen |
 | <img src="Zoomies/Assets.xcassets/Sprites/dog-sit-sprite.imageset/dog-sit-sprite.png" width="500"/> | Sitting dog | 9 | Credits screen |
 
 ---
@@ -114,7 +114,7 @@ All assets are stored in **`Assets.xcassets`**, organized by folders.
 
 | Sprite | Description | Used In |
 |:------:|:-------------|:--------|
-| <img src="Zoomies/Assets.xcassets/UI/heart.imageset/heart-health.png" width="90"/> | Player health unit | Health bar |
+| <img src="Zoomies/Assets.xcassets/UI/heart.imageset/heart-health.png" width="80"/> | Player health unit | Health bar |
 | <img src="Zoomies/Assets.xcassets/Clouds/cloud1.imageset/cloud1.png" width="80"/> | Small cloud | Background |
 | <img src="Zoomies/Assets.xcassets/Clouds/cloud2.imageset/cloud2.png" width="80"/> | Medium cloud | Background |
 | <img src="Zoomies/Assets.xcassets/Clouds/cloud3.imageset/cloud3.png" width="80"/> | Large cloud | Background |
