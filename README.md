@@ -14,7 +14,7 @@
 
 ---
 
-## 🧠 Overview
+## Overview
 
 **Zoomies** is a fast-paced 2D pixel-art endless runner starring a loyal German Shepherd 🐶.  
 Tap to jump, collect bones to restore health, and dodge logs to keep running!  
@@ -22,7 +22,7 @@ The game combines **retro pixel art**, **parallax backgrounds**, and **smooth Sp
 
 ---
 
-## 🎮 Gameplay Demo
+## Gameplay Demo
 
 ### 🌅 Intro Scene  
 <p align="center">
@@ -85,7 +85,7 @@ The game combines **retro pixel art**, **parallax backgrounds**, and **smooth Sp
 <summary><b>🎨 Full Asset Reference (click to expand)</b></summary>
 <br>
 
-# 🧾 Zoomies – Sprite & Asset Reference Sheet  
+# Sprite & Asset Reference Sheet  
 
 All artwork was created by **Ritika Joshi** using [Pixilart](https://www.pixilart.com)  
 and is **not licensed for commercial reuse or redistribution**.  
@@ -93,7 +93,7 @@ All assets are stored in **`Assets.xcassets`**, organized by folders.
 
 ---
 
-## 🐕 Character Sprites  
+## Character Sprites  
 
 | Sprite | Description | Frames | Used In |
 |:------:|:-------------|:-------:|:--------|
@@ -107,17 +107,17 @@ All assets are stored in **`Assets.xcassets`**, organized by folders.
 
 ---
 
-## 🪵 Obstacles & Collectibles  
+## Obstacles & Collectibles  
 
 | Sprite | Description | Used In |
 |:------:|:-------------|:--------|
 | <img src="Zoomies/Assets.xcassets/Sprites/wooden-log.imageset/wooden-log.png" width="90"/> | Wooden log obstacle | Gameplay |
 | <img src="Zoomies/Assets.xcassets/UI/dog-bone.imageset/dog-bone.png" width="90"/> | Collectible bone | Gameplay |
-| <img src="Zoomies/Assets.xcassets/Sprites/dog-bone-collected-sprite.imageset/dog-bone-collected-sprite.png" width="400"/> | Blinking yellow bone effect | Bone collection |
+| <img src="Zoomies/Assets.xcassets/Sprites/dog-bone-collected-sprite.imageset/dog-bone-collected-sprite.png" width="300"/> | Blinking yellow bone effect | Bone collection |
 
 ---
 
-## ❤️ UI Elements  
+## UI Elements  
 
 | Sprite | Description | Used In |
 |:------:|:-------------|:--------|
@@ -130,7 +130,7 @@ All assets are stored in **`Assets.xcassets`**, organized by folders.
 
 ---
 
-## 👩‍💻 Credits
+## Credits
 
 **Zoomies** by [Ritika Joshi](https://github.com/RJoshi141)  
 Game Design, Art & Code by Ritika  
@@ -141,7 +141,7 @@ Built with SpriteKit + Swift ✨
 
 ---
 
-## ⚙️ Setup (for Developers)
+## Setup (for Developers)
 
 Follow these steps to open, build, and run **Zoomies** locally:
 
@@ -171,7 +171,7 @@ cd Zoomies
 
 ---
 
-## ⚖️ License
+## License
 
 This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for details.
 © 2025 Ritika Joshi
