@@ -24,16 +24,13 @@ The game combines **retro pixel art**, **parallax backgrounds**, and **smooth Sp
 
 ## Gameplay Demo
 
-### 🌅 Intro Scene  
 <p align="center">
   <b>Our hero gets ready for a new adventure!</b><br><br>
   <img src="./Zoomies/zoomies-intro.gif" width="520" style="border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.15);" alt="Zoomies Intro"/>
 </p>
 
 
----
 
-### 🏃‍♂️ Gameplay  
 <p align="center">
   <b>Dodge logs, collect bones, and keep running to survive!</b><br><br>
   <img src="./Zoomies/zoomies-gameplay.gif" width="520" style="border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.15);" alt="Zoomies Gameplay"/>
@@ -45,9 +42,7 @@ The game combines **retro pixel art**, **parallax backgrounds**, and **smooth Sp
 - **Real-time distance tracker** in the bottom-right  
 - **Smooth jump animation** and parallax-scrolling background
 
----
 
-### 🎛️ Menu System  
 <p align="center">
   <b>Pause, check the rules, or view the credits anytime.</b><br><br>
   <img src="./Zoomies/zoomies-menu.gif" width="520" style="border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.15);" alt="Zoomies Menu"/>
@@ -57,9 +52,7 @@ The game combines **retro pixel art**, **parallax backgrounds**, and **smooth Sp
 - In-game **pause menu** with Resume, Rules, Credits, and Exit  
 - **Rules and Credits pages** with their own animations  
 
----
 
-### 💀 Game Over  
 <p align="center">
   <b>Every run must end — but you can always play again!</b><br><br>
   <img src="./Zoomies/zoomies-gameover.gif" width="520" style="border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.15);" alt="Zoomies Game Over"/>
@@ -69,7 +62,7 @@ The game combines **retro pixel art**, **parallax backgrounds**, and **smooth Sp
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |:------|:------------|
@@ -125,6 +118,12 @@ All assets are stored in **`Assets.xcassets`**, organized by folders.
 | <img src="Zoomies/Assets.xcassets/Clouds/cloud1.imageset/cloud1.png" width="80"/> | Small cloud | Background |
 | <img src="Zoomies/Assets.xcassets/Clouds/cloud2.imageset/cloud2.png" width="80"/> | Medium cloud | Background |
 | <img src="Zoomies/Assets.xcassets/Clouds/cloud3.imageset/cloud3.png" width="80"/> | Large cloud | Background |
+| <img src="Zoomies/Assets.xcassets/UI/menu-button.imageset/menu-button.png" width="140"/> | Menu button (pause) | Gameplay |
+| <img src="Zoomies/Assets.xcassets/UI/resume-button.imageset/resume-button.png" width="100"/> | Resume game | Menu |
+| <img src="Zoomies/Assets.xcassets/UI/rules-button.imageset/rules-button.png" width="140"/> | Rules page | Menu |
+| <img src="Zoomies/Assets.xcassets/UI/credits-button.imageset/credits-button.png" width="140"/> | Credits page | Menu |
+| <img src="Zoomies/Assets.xcassets/UI/exit-button.imageset/exit-button.png" width="140"/> | Exit to title | Menu |
+| <img src="Zoomies/Assets.xcassets/UI/back-button.imageset/back-button.png" width="100"/> | Back navigation | Rules/Credits |
 
 </details>
 
