@@ -118,11 +118,11 @@ All assets are stored in **`Assets.xcassets`**, organized by folders.
 | <img src="Zoomies/Assets.xcassets/Clouds/cloud1.imageset/cloud1.png" width="80"/> | Small cloud | Background |
 | <img src="Zoomies/Assets.xcassets/Clouds/cloud2.imageset/cloud2.png" width="80"/> | Medium cloud | Background |
 | <img src="Zoomies/Assets.xcassets/Clouds/cloud3.imageset/cloud3.png" width="80"/> | Large cloud | Background |
-| <img src="Zoomies/Assets.xcassets/UI/menu-button.imageset/menu-button.png" width="140"/> | Menu button (pause) | Gameplay |
+| <img src="Zoomies/Assets.xcassets/UI/menu-button.imageset/menu-button.png" width="100"/> | Menu button (pause) | Gameplay |
 | <img src="Zoomies/Assets.xcassets/UI/resume-button.imageset/resume-button.png" width="100"/> | Resume game | Menu |
-| <img src="Zoomies/Assets.xcassets/UI/rules-button.imageset/rules-button.png" width="140"/> | Rules page | Menu |
-| <img src="Zoomies/Assets.xcassets/UI/credits-button.imageset/credits-button.png" width="140"/> | Credits page | Menu |
-| <img src="Zoomies/Assets.xcassets/UI/exit-button.imageset/exit-button.png" width="140"/> | Exit to title | Menu |
+| <img src="Zoomies/Assets.xcassets/UI/rules-button.imageset/rules-button.png" width="100"/> | Rules page | Menu |
+| <img src="Zoomies/Assets.xcassets/UI/credits-button.imageset/credits-button.png" width="100"/> | Credits page | Menu |
+| <img src="Zoomies/Assets.xcassets/UI/exit-button.imageset/exit-button.png" width="100"/> | Exit to title | Menu |
 | <img src="Zoomies/Assets.xcassets/UI/back-button.imageset/back-button.png" width="100"/> | Back navigation | Rules/Credits |
 
 </details>
