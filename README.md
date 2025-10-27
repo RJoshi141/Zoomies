@@ -102,7 +102,7 @@ All assets are stored in **`Assets.xcassets`**, organized by folders.
 | <img src="./Zoomies/dog-jump-sprite.png" width="100"/> | Jump animation | 7 | Gameplay |
 | <img src="./Zoomies/dog-hurt-sprite.png" width="100"/> | Hurt animation (flinch) | 4 | When hit |
 | <img src="./Zoomies/dog-die-sprite.png" width="100"/> | Death animation | 8 | When HP = 0 |
-| <img src=".Zoomies/Assets.xcassets/Sprites/dog-bark-sprite.imageset/dog-bark-sprite.png" width="100"/> | Barking dog | 13 | Title screen |
+| <img src="Zoomies/Assets.xcassets/Sprites/dog-bark-sprite.imageset/dog-bark-sprite.png" width="100"/> | Barking dog | 13 | Title screen |
 | <img src="./Zoomies/dog-sit-sprite.png" width="100"/> | Sitting dog | 9 | Credits screen |
 
 ---
