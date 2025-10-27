@@ -1,9 +1,9 @@
 <h1 align="center">ZOOMIES</h1>
 
 <p align="center">
-  <b>**Zoomies** is a fast-paced 2D pixel-art endless runner starring a loyal German Shepherd 🐶.  
+  <b>Zoomies is a fast-paced 2D pixel-art endless runner starring a loyal German Shepherd 🐶.  
 Tap to jump, collect bones to restore health, and dodge logs to keep running!  
-The game combines **retro pixel art**, **parallax backgrounds**, and **smooth SpriteKit animation** for an old-school arcade vibe. 🕹️</b><br>
+The game combines retro pixel art, parallax backgrounds, and smooth SpriteKit animation for an old-school arcade vibe. 🕹️</b><br>
   Run, jump, collect bones, and survive as long as you can!
 </p>
 
@@ -14,7 +14,7 @@ The game combines **retro pixel art**, **parallax backgrounds**, and **smooth Sp
   <img src="https://img.shields.io/badge/Platform-iOS-lightgrey?logo=apple&logoColor=white" alt="iOS"/>
 </p>
 
----
+
 
 ## Gameplay Demo
 
@@ -38,7 +38,7 @@ The game combines **retro pixel art**, **parallax backgrounds**, and **smooth Sp
   <img src="./Zoomies/zoomies-gameover.gif" width="520" style="border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.15);" alt="Zoomies Game Over"/>
 </p>
 
----
+
 
 ## Tech Stack
 
@@ -51,7 +51,7 @@ The game combines **retro pixel art**, **parallax backgrounds**, and **smooth Sp
 | Font | Press Start 2P |
 | Platform | iOS |
 
----
+
 
 ## Full Asset Reference
 
@@ -97,7 +97,7 @@ All assets are stored in **`Assets.xcassets`**, organized by folders.
 | <img src="Zoomies/Assets.xcassets/UI/exit-button.imageset/exit-button.png" width="100"/> | Exit to title | Menu |
 | <img src="Zoomies/Assets.xcassets/UI/back-button.imageset/back-button.png" width="100"/> | Back navigation | Rules/Credits |
 
----
+
 
 <details>
   <summary><h2>Credits</h2></summary>
@@ -110,7 +110,7 @@ Built with SpriteKit + Swift ✨
 > 🎨 *All pixel art assets are creations by Ritika Joshi and are **not for commercial reuse or redistribution.***  
 </details>
 
----
+
 
 <details>
   <summary><h2>Setup (for Developers)</h2></summary>
@@ -142,5 +142,3 @@ cd Zoomies
 * Keep pixel scaling consistent and use `.nearest` filtering for crisp visuals
 * To add new sprites, import your **.png** files and reference them in the `GameScene.swift`
 </details>
-
----
