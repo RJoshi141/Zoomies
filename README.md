@@ -113,6 +113,7 @@ Built with SpriteKit + Swift ✨
 
 > 🎨 *All pixel art assets are creations by Ritika Joshi and are **not for commercial reuse or redistribution.***  
 </details>
+
 ---
 
 <details>
@@ -145,4 +146,5 @@ cd Zoomies
 * Keep pixel scaling consistent and use `.nearest` filtering for crisp visuals
 * To add new sprites, import your **.png** files and reference them in the `GameScene.swift`
 </details>
+
 ---
