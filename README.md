@@ -12,8 +12,6 @@
   <img src="https://img.shields.io/badge/Platform-iOS-lightgrey?logo=apple&logoColor=white" alt="iOS"/>
 </p>
 
----
-
 ## Overview
 
 **Zoomies** is a fast-paced 2D pixel-art endless runner starring a loyal German Shepherd 🐶.  
@@ -29,36 +27,20 @@ The game combines **retro pixel art**, **parallax backgrounds**, and **smooth Sp
   <img src="./Zoomies/zoomies-intro.gif" width="520" style="border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.15);" alt="Zoomies Intro"/>
 </p>
 
-
-
 <p align="center">
   <b>Dodge logs, collect bones, and keep running to survive!</b><br><br>
   <img src="./Zoomies/zoomies-gameplay.gif" width="520" style="border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.15);" alt="Zoomies Gameplay"/>
 </p>
-
-
-- **Dynamic obstacles** (logs) and **collectibles** (bones)  
-- Bones restore hearts if health < 5 ❤️  
-- **Real-time distance tracker** in the bottom-right  
-- **Smooth jump animation** and parallax-scrolling background
-
 
 <p align="center">
   <b>Pause, check the rules, or view the credits anytime.</b><br><br>
   <img src="./Zoomies/zoomies-menu.gif" width="520" style="border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.15);" alt="Zoomies Menu"/>
 </p>
 
-
-- In-game **pause menu** with Resume, Rules, Credits, and Exit  
-- **Rules and Credits pages** with their own animations  
-
-
 <p align="center">
   <b>Every run must end — but you can always play again!</b><br><br>
   <img src="./Zoomies/zoomies-gameover.gif" width="520" style="border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.15);" alt="Zoomies Game Over"/>
 </p>
-
-- **Yes / No** restart options with proper input detection  
 
 ---
 
@@ -75,15 +57,12 @@ The game combines **retro pixel art**, **parallax backgrounds**, and **smooth Sp
 
 ---
 <details>
-  <summary><h3>🎨 Full Asset Reference (click to expand)</h3></summary>
+  <summary><h2>Full Asset Reference (click to expand)</h2></summary>
 
-# Sprite & Asset Reference Sheet  
 
 All artwork was created by **Ritika Joshi** using [Pixilart](https://www.pixilart.com)  
 and is **not licensed for commercial reuse or redistribution**.  
 All assets are stored in **`Assets.xcassets`**, organized by folders.
-
----
 
 ## Character Sprites  
 
@@ -97,7 +76,6 @@ All assets are stored in **`Assets.xcassets`**, organized by folders.
 | <img src="Zoomies/Assets.xcassets/Sprites/dog-bark-sprite.imageset/dog-bark-sprite.png" width="800"/> | Barking dog | 13 | Title screen |
 | <img src="Zoomies/Assets.xcassets/Sprites/dog-sit-sprite.imageset/dog-sit-sprite.png" width="500"/> | Sitting dog | 9 | Credits screen |
 
----
 
 ## Obstacles & Collectibles  
 
@@ -107,7 +85,6 @@ All assets are stored in **`Assets.xcassets`**, organized by folders.
 | <img src="Zoomies/Assets.xcassets/UI/dog-bone.imageset/dog-bone.png" width="90"/> | Collectible bone | Gameplay |
 | <img src="Zoomies/Assets.xcassets/Sprites/dog-bone-collected-sprite.imageset/dog-bone-collected-sprite.png" width="300"/> | Blinking yellow bone effect | Bone collection |
 
----
 
 ## UI Elements  
 
@@ -143,25 +120,25 @@ Built with SpriteKit + Swift ✨
 
 Follow these steps to open, build, and run **Zoomies** locally:
 
-### 1️⃣ Clone the repository
+### 1. Clone the repository
 ```bash
 git clone https://github.com/RJoshi141/Zoomies.git
 cd Zoomies
 ````
 
-### 2️⃣ Open in Xcode
+### 2. Open in Xcode
 
 * Open **Zoomies.xcodeproj** in Xcode
 * Ensure you’re running **Xcode 15 or newer** (Swift 5.9+)
 * Set the active scheme to **Zoomies** and your simulator to any iPhone device
 
-### 3️⃣ Run the Game
+### 3. Run the Game
 
 * Press **⌘ + R** (or Product → Run)
 * The game launches in the iOS Simulator
 * Tap anywhere to start running 🏃‍♀️
 
-### 4️⃣ Optional: Customize Assets
+### 4. Optional: Customize Assets
 
 * Modify textures or UI art in the **Assets.xcassets** folder
 * Keep pixel scaling consistent and use `.nearest` filtering for crisp visuals
@@ -173,6 +150,3 @@ cd Zoomies
 
 This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for details.
 © 2025 Ritika Joshi
-
-> 🧩 Code is open-source and free for educational use.
-> 🎨 Pixel art and design assets are protected and **not for commercial distribution.**
